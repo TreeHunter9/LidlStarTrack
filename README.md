@@ -1,0 +1,2 @@
+# LidlStarTrack
+ Trying MVP project
